@@ -1,2 +1,2 @@
-# Java-practice-
+# Java-practice
 Java basic practice
